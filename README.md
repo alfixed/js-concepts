@@ -5,3 +5,4 @@
 03 scope
 04 hoisting
 05 let const
+06 closures
