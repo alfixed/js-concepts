@@ -8,3 +8,4 @@
 06 closures
 07 iife
 08 context
+09 new
